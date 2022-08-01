@@ -1,0 +1,4 @@
+tasks:
+  - command: echo $MY_SECRET
+
+  
